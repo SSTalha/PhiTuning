@@ -19,6 +19,9 @@ HuggingFacce_Token = your_huggingface_api_token
 ### Techniques Used
 
 To compensate for using only 1 T4 GPU. I used:
+
 1- PEFT
+
 2- LoRA
+
 3- Quantization
